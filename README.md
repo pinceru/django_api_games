@@ -16,7 +16,7 @@
 #### É possível realizar filtros e pesquisas pelos jogos.
 
 ## Nota:
-#### API básica. Não deve ser executada.
+#### Esse repositorio não contém a `venv`, por isso o projeto não deve ser executado.
 #### A idéia é a demonstração do código.
 
 <div style="display: inline_block"><br>
